@@ -1,4 +1,4 @@
-name: apache2
+name: apache kafka
 
 on:
   push:
